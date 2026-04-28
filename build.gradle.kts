@@ -1,0 +1,4 @@
+plugins {
+    kotlin("jvm") version "1.9.23" apply false
+    kotlin("kapt") version "1.9.23" apply false
+}
